@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="820" viewBox="0 0 1200 820" role="img" aria-labelledby="title desc">
+  <title id="title">Downloads Organizer report preview</title>
+  <desc id="desc">A synthetic preview of the local HTML organisation report.</desc>
+  <rect width="1200" height="820" fill="#f7f5f0"/>
+  <g font-family="Inter, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" fill="#171717">
+    <text x="72" y="76" font-size="12" letter-spacing="2" fill="#696969">DOWNLOADS ORGANIZER</text>
+    <text x="72" y="128" font-size="46" font-weight="650" letter-spacing="-2">Organisation report</text>
+    <text x="1128" y="85" font-size="13" text-anchor="end" fill="#696969">Generated locally. No file contents or report data</text>
+    <text x="1128" y="105" font-size="13" text-anchor="end" fill="#696969">are uploaded by Downloads Organizer.</text>
+    <line x1="72" y1="158" x2="1128" y2="158" stroke="#e7e4de"/>
+
+    <g transform="translate(72 186)">
+      <rect width="264" height="104" fill="#ffffff" stroke="#e7e4de"/><text x="22" y="45" font-size="29" font-weight="650">42</text><text x="22" y="76" font-size="14" fill="#696969">Files organised</text>
+      <rect x="264" width="264" height="104" fill="#ffffff" stroke="#e7e4de"/><text x="286" y="45" font-size="29" font-weight="650">684.21 MB</text><text x="286" y="76" font-size="14" fill="#696969">Data processed</text>
+      <rect x="528" width="264" height="104" fill="#ffffff" stroke="#e7e4de"/><text x="550" y="45" font-size="29" font-weight="650">6</text><text x="550" y="76" font-size="14" fill="#696969">Categories</text>
+      <rect x="792" width="264" height="104" fill="#ffffff" stroke="#e7e4de"/><text x="814" y="45" font-size="29" font-weight="650">2</text><text x="814" y="76" font-size="14" fill="#696969">Duplicates detected</text>
+    </g>
+
+    <g transform="translate(72 320)">
+      <rect width="516" height="258" fill="#ffffff" stroke="#e7e4de"/><text x="24" y="38" font-size="17" font-weight="600">Category distribution</text>
+      <g font-size="13"><text x="24" y="76">Documents</text><rect x="142" y="66" width="300" height="9" fill="#ece9e3"/><rect x="142" y="66" width="300" height="9" fill="#3c5d50"/><text x="472" y="76" fill="#696969">14</text>
+      <text x="24" y="110">Images</text><rect x="142" y="100" width="300" height="9" fill="#ece9e3"/><rect x="142" y="100" width="237" height="9" fill="#3c5d50"/><text x="472" y="110" fill="#696969">11</text>
+      <text x="24" y="144">Videos</text><rect x="142" y="134" width="300" height="9" fill="#ece9e3"/><rect x="142" y="134" width="129" height="9" fill="#3c5d50"/><text x="472" y="144" fill="#696969">6</text>
+      <text x="24" y="178">Archives</text><rect x="142" y="168" width="300" height="9" fill="#ece9e3"/><rect x="142" y="168" width="87" height="9" fill="#3c5d50"/><text x="472" y="178" fill="#696969">4</text>
+      <text x="24" y="212">Music</text><rect x="142" y="202" width="300" height="9" fill="#ece9e3"/><rect x="142" y="202" width="64" height="9" fill="#3c5d50"/><text x="472" y="212" fill="#696969">3</text></g>
+
+      <g transform="translate(540 0)"><rect width="516" height="258" fill="#ffffff" stroke="#e7e4de"/><text x="24" y="38" font-size="17" font-weight="600">Files by modification month</text>
+      <g font-size="13"><text x="24" y="76">2026-04</text><rect x="120" y="66" width="322" height="9" fill="#ece9e3"/><rect x="120" y="66" width="123" height="9" fill="#3c5d50"/><text x="472" y="76" fill="#696969">5</text>
+      <text x="24" y="110">2026-05</text><rect x="120" y="100" width="322" height="9" fill="#ece9e3"/><rect x="120" y="100" width="198" height="9" fill="#3c5d50"/><text x="472" y="110" fill="#696969">8</text>
+      <text x="24" y="144">2026-06</text><rect x="120" y="134" width="322" height="9" fill="#ece9e3"/><rect x="120" y="134" width="274" height="9" fill="#3c5d50"/><text x="472" y="144" fill="#696969">11</text>
+      <text x="24" y="178">2026-07</text><rect x="120" y="168" width="322" height="9" fill="#ece9e3"/><rect x="120" y="168" width="322" height="9" fill="#3c5d50"/><text x="472" y="178" fill="#696969">13</text>
+      <text x="24" y="212">2026-08</text><rect x="120" y="202" width="322" height="9" fill="#ece9e3"/><rect x="120" y="202" width="123" height="9" fill="#3c5d50"/><text x="472" y="212" fill="#696969">5</text></g></g>
+    </g>
+
+    <g transform="translate(72 606)"><rect width="1056" height="148" fill="#ffffff" stroke="#e7e4de"/><text x="24" y="35" font-size="17" font-weight="600">Largest files</text>
+      <g font-size="11" fill="#696969"><text x="24" y="66">FILE</text><text x="430" y="66">SIZE</text><text x="570" y="66">CATEGORY</text><text x="720" y="66">DESTINATION</text></g>
+      <line x1="24" y1="78" x2="1032" y2="78" stroke="#e7e4de"/>
+      <g font-size="13"><text x="24" y="103">demo-reel.mp4</text><text x="430" y="103" fill="#696969">312.40 MB</text><text x="570" y="103" fill="#696969">Videos</text><text x="720" y="103">Videos/demo-reel.mp4</text>
+      <text x="24" y="132">annual-report.pdf</text><text x="430" y="132" fill="#696969">21.08 MB</text><text x="570" y="132" fill="#696969">Documents</text><text x="720" y="132">Documents/annual-report.pdf</text></g>
+    </g>
+    <text x="72" y="790" font-size="12" fill="#696969">Synthetic preview. The generated HTML report is fully local and requires no remote scripts or assets.</text>
+  </g>
+</svg>

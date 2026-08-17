@@ -1,0 +1,9 @@
+{
+  "categories": {
+    "Documents": [".pdf", ".docx", ".txt", ".md"],
+    "Images": [".jpg", ".jpeg", ".png", ".webp"],
+    "Design": [".fig", ".sketch"],
+    "Archives": [".zip", ".7z", ".tar", ".gz"]
+  },
+  "fallback": "Miscellaneous"
+}
